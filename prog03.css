@@ -1,0 +1,27 @@
+
+
+td {max-width: 55px;}
+tr:nth-child(even) {background-color: red;}
+tr:nth-child(odd) {background-color: blue;} 
+
+
+fieldset {max-width: 55px;}
+
+/*header "Soccer Scoreboard" */
+header {color: green;}
+header {text-decoration: underline;}
+header {font-size: 40px;}
+
+legend {font-family: Arial;}  
+legend {font-weight: bold;}
+
+
+table {background-color: yellow;}
+table {border: solid;}
+
+input {max-width: 50px;}
+
+output {font-weight: bold;}
+
+
+
